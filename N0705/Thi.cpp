@@ -21,6 +21,6 @@ int main(void)
 				max = a[i];
 			}
 	}
-	printf("\nGia tri lon nha la : %d",max);
+	printf("\nGia tri lon nha la dshhhhh: %d",max);
 	return 0;
 }
