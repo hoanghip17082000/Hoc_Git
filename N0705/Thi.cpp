@@ -2,6 +2,12 @@
 
 int main(void)
 {
+	/*
+	update sensor 
+	*/
+	jodhf
+	4nsfhdfa
+	dfkfhfh
 	int a[3];
 	printf("Nhap 3 so :\n");
 		for(int i=0;i<3;i++)
@@ -21,6 +27,6 @@ int main(void)
 				max = a[i];
 			}
 	}
-	printf("\nGia tri lon nha la dshhhhh: %d",max);
+	printf("\nGia tri lon nha la dshhhhhhhh: %d",max);
 	return 0;
 }
