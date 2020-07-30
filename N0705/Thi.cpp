@@ -30,6 +30,10 @@ int main(void)
 				max = a[i];
 			}
 	}
+<<<<<<< HEAD
 	printf("\nGia tri lon nha la: %d",max);
+=======
+	printf("\nGia tri lon nha la dshhhhhhhh: %d",max);
+>>>>>>> update_sensor
 	return 0;
 }
